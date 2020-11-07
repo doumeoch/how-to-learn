@@ -249,7 +249,7 @@
     overflow: hidden;
     padding-top: 90px;
     padding-bottom: 90px;
-    z-index: 1;
+    z-index: 0;
 }
 
 .table_theme_dark {
@@ -279,6 +279,7 @@
     top: 0;
     right: -210px;
     background-size: contain;
+    z-index: -1;
 }
 
 .section-title_theme_dark {
