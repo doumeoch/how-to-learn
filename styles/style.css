@@ -290,7 +290,6 @@
     color: white;
     width: 60%;
     margin: 0 auto 0 auto;
-    z-index: 1;
 }
 
 .section-subtitle_theme_dark {
@@ -301,7 +300,6 @@
     text-align: center;
     width: 60%;
     margin: 20px auto 0 auto;
-    z-index: 1;
 }
 
 .table__heading_theme_dark {
