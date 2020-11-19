@@ -2,5 +2,8 @@
     text-decoration: none;
     display: block;
     color: white;
+}
+
+.footer__column-link:hover {
     transition: opacity .5s ease;
 }
