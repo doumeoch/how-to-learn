@@ -1,0 +1,6 @@
+.footer__column-link {
+    text-decoration: none;
+    display: block;
+    color: white;
+    transition: opacity .7s ease
+}

@@ -1,0 +1,7 @@
+.resources__logo-zone {
+   width: 1100px;
+    display: flex;
+    margin: 80px auto 217px;
+    list-style: none;
+    transition: opacity .7s ease
+}
